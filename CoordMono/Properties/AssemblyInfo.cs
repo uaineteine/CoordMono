@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("CoordMono")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("Daniel Stamer-Squair")]
+[assembly: AssemblyCopyright("Copyright © 2020 Daniel Stamer-Squair")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9dcfe774-3787-49bc-bf5a-0cf6fe5f179b")]
+[assembly: Guid("b2ad9983-3511-4262-90f3-ab9090aab8ef")]
 
 // Version information for an assembly consists of the following four values:
 //
