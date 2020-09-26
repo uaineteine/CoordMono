@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordMono", "CoordMono\CoordMono.csproj", "{EB36816D-02CD-476A-811B-B7E58500EAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB36816D-02CD-476A-811B-B7E58500EAA8}.Debug|x86.ActiveCfg = Debug|x86
+		{EB36816D-02CD-476A-811B-B7E58500EAA8}.Debug|x86.Build.0 = Debug|x86
+		{EB36816D-02CD-476A-811B-B7E58500EAA8}.Release|x86.ActiveCfg = Release|x86
+		{EB36816D-02CD-476A-811B-B7E58500EAA8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878A35E2-6935-4644-928A-EBA56F2B73A3}
+	EndGlobalSection
+EndGlobal
