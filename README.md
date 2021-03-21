@@ -8,7 +8,7 @@ Add project to solution with reference to get started
 #### This project is packaged with libraries:
 
 * CoordLibrary [ [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) ] by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
-
+* Monogame
 #### Version 1.1
 
 See the [changelog](changelog.txt) for details.
