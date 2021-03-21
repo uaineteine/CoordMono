@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordMono", "CoordMono\CoordMono.csproj", "{F81CD80B-907F-47EB-AF6C-3940B5A80C33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uaine.Monogame.Coord.OpenGL", "CoordMono\Uaine.Monogame.Coord.OpenGL.csproj", "{F81CD80B-907F-47EB-AF6C-3940B5A80C33}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C6D00F8-624F-4ACB-9891-F449BDA4CAEA}"
 	ProjectSection(SolutionItems) = preProject
