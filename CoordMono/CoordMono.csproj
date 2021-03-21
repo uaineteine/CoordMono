@@ -9,8 +9,8 @@
     <ProjectGuid>{F81CD80B-907F-47EB-AF6C-3940B5A80C33}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Uaine.Coord.Mono</RootNamespace>
-    <AssemblyName>Uaine.Coord.Mono</AssemblyName>
+    <RootNamespace>Uaine.Monogame.Coord</RootNamespace>
+    <AssemblyName>Uaine.Monogame.Coord</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>Windows</MonoGamePlatform>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -46,8 +46,12 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Circle.cs" />
     <Compile Include="CRectangle.cs" />
+    <Compile Include="CVec.cs" />
+    <Compile Include="MouseCoord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="screendim.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">
@@ -63,8 +67,8 @@
     </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="Uaine.Coord, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Uaine.Coord.1.2.0\lib\netstandard1.0\Uaine.Coord.dll</HintPath>
+    <Reference Include="Uaine.Coord, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Uaine.Coord.1.3.0\lib\netstandard1.0\Uaine.Coord.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

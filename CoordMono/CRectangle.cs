@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Uaine.Coord;
 
-namespace Uaine.Coord.Mono
+namespace Uaine.Monogame.Coord
 {
     public static class CRectangle
     {

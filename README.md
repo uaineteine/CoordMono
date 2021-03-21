@@ -1,4 +1,4 @@
-# CoordMono
+# Uaine.Monogame.Coord
 A MonoGame implementation of [Uaine's](https://bitbucket.org/uaineteinestudio/)'s Coord [ [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) ] library
 
 ## Getting Started
@@ -9,7 +9,7 @@ Add project to solution with reference to get started
 
 * CoordLibrary [ [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) ] by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
 
-#### Version 1.0
+#### Version 1.1
 
 See the [changelog](changelog.txt) for details.
 
@@ -17,7 +17,7 @@ See the [changelog](changelog.txt) for details.
 
 * **Daniel Stamer-Squair** - *UaineTeine*
 
-Copyright © 2020 Daniel Stamer-Squair
+Copyright © 2020-2021 Daniel Stamer-Squair
 
 ## License
 

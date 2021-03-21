@@ -1,1 +1,10 @@
-NO CHANGES AS OF YET
+--1.1--
+New:
+Coord Vector2 conversions
+Circle class
+MouseCoord class
+screendim class
+
+Changes:
+Namespace change
+Updated coord to 1.3.0
