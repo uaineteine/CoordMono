@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CoordMono")]
-[assembly: AssemblyProduct("CoordMono")]
+[assembly: AssemblyTitle("Uaine.Monogame.Coord.OpenGL")]
+[assembly: AssemblyProduct("Uaine.Monogame.Coord")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A MonoGame implementation of Uaine's's Coord library")]
 [assembly: AssemblyCompany("Daniel Stamer-Squair")]
-[assembly: AssemblyCopyright("Copyright © 2020 Daniel Stamer-Squair")]
+[assembly: AssemblyCopyright("Copyright © 2021 Daniel Stamer-Squair")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
